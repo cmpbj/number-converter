@@ -287,7 +287,7 @@ def print_result(result, erro=''):
 
 ```
 
-### Put all the parts together
+### Puts all the parts together
 
 ```
 # Import modules
